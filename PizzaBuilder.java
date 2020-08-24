@@ -1,3 +1,6 @@
+//Excellent example of builder pattern
+//code taken from https://medium.com/@sergio.igwt/the-builder-pattern-in-java-2c03fc6ccd16
+
 class Pizza {
     private String pizzaSize;
     private String crust;
